@@ -1,1 +1,1 @@
-# static-landing-page
+Temporary landing page
