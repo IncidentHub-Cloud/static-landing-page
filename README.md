@@ -1,1 +1,1 @@
-Temporary landing page
+Landing page
